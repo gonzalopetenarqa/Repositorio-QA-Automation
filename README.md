@@ -29,6 +29,9 @@ Cypress (v10 o superior).
 Git (para clonar el repositorio).
 Navegador Chrome (última versión)
 
+Historias de usuario y sus trabajos:
+
+[Historia de usuario 1](Historias de Usuario 1)
 [automationtest.cy.js](cypress/e2e/automationtest.cy.js)
 
 
