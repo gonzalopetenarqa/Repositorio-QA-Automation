@@ -82,7 +82,7 @@ Historias de usuario y sus trabajos:
 
 ----------------------------------------------------------------------------------
 
-[Historia de Usuario 2](https://github.com/gonzalopetenarqa/Repositorio-QA-Automation/blob/main/Historias%20de%20usuario/Historias%20de%20Usuario%201.md)
+[Historia de Usuario 2](https://github.com/gonzalopetenarqa/Repositorio-QA-Automation/blob/main/Historias%20de%20usuario/Historias%20de%20Usuario%202.md)
 
 [automationtest_2.cy.js](cypress/e2e/automationtest_2.cy.js)
 
