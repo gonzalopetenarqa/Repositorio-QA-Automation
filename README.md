@@ -1,4 +1,4 @@
-Product Search QA Automation Repository
+
 Este repositorio contiene los scripts de automatización de pruebas para la validación de la funcionalidad de búsqueda de productos en una tienda online. Las pruebas están diseñadas usando herramientas modernas y aplican buenas prácticas de QA.
 
 Tabla de Contenidos
@@ -14,12 +14,12 @@ Introducción
 Este proyecto automatiza la validación de la funcionalidad de búsqueda en una tienda online. Incluye casos de prueba para escenarios positivos y negativos, siguiendo criterios de aceptación claros basados en BDD.
 
 Experiencia QA:
-Más de X años trabajando en entornos ágiles (Scrum).
+Más de 1 años trabajando en entornos ágiles (Scrum).
 Experiencia con herramientas como Jira, Xray, Postman y Cypress.
 Pruebas funcionales y automatizadas en proyectos de comercio electrónico.
 Conocimiento en diseño de casos de prueba, manejo de errores y validación de datos usando SQL.
 Características
-Automatización con Cypress y uso del Page Object Model (POM).
+Automatización con Cypress
 Validaciones de escenarios como búsqueda exitosa, sin resultados y manejo de errores.
 Compatibilidad cross-browser (Chrome, Firefox, Edge).
 Scripts preparados para CI/CD pipelines.
