@@ -28,3 +28,7 @@ Node.js (v14 o superior).
 Cypress (v10 o superior).
 Git (para clonar el repositorio).
 Navegador Chrome (última versión)
+
+
+![image](https://github.com/user-attachments/assets/f5243460-0fd3-4de9-90c9-1da50e5e4719)
+
