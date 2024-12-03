@@ -33,7 +33,7 @@ Navegador Chrome (última versión)
 
 Historias de usuario y sus trabajos:
 
-[Historia de Usuario 1](https://github.com/gonzalopetenarqa/Repositorio-QA-Automation/blob/main/Historias%20de%20usuario/Historias%20de%20Usuario%201.md)
+[Historia de Usuario 1](Historias de usuario/Historias de Usuario 1.md)
 
 [automationtest.cy.js](cypress/e2e/automationtest.cy.js)
 ----------------------------------------------------------------------------------
