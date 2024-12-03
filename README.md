@@ -45,5 +45,12 @@ Historias de usuario y sus trabajos:
 [automationtest_2.cy.js](cypress/e2e/automationtest_2.cy.js)
 
 
+---------------------------------------------------------------------------------
+
+[Historia de Usuario 3](https://github.com/gonzalopetenarqa/Repositorio-QA-Automation/blob/main/Historias%20de%20usuario/Historias%20de%20Usuario%203.md)
+
+[automationtest_3.cy.js](cypress/e2e/automationtest_3.cy.js)
+
+
 ![image](https://github.com/user-attachments/assets/f5243460-0fd3-4de9-90c9-1da50e5e4719)
 
