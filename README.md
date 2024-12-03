@@ -11,7 +11,7 @@ Estructura del Proyecto
 Contribuciones
 Contacto
 Introducción
-Este proyecto automatiza la validación de la funcionalidad de búsqueda en una tienda online. Incluye casos de prueba para escenarios positivos y negativos, siguiendo criterios de aceptación claros basados en BDD.
+Este proyecto automatiza la validación de la funcionalidad de búsqueda en una tienda online. Incluye casos de prueba para escenarios positivos y negativos, siguiendo criterios de aceptación claros basados en BDD dentro de la historia de usuario.
 
 Experiencia QA:
 Más de 1 años trabajando en entornos ágiles (Scrum).
