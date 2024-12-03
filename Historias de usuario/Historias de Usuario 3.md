@@ -23,6 +23,6 @@ Escenarios Negativos
 - Intento de checkout sin productos seleccionados.
 
 
-automationtest_3.cy.js
+[automationtest_3.cy.js](https://github.com/gonzalopetenarqa/Repositorio-QA-Automation/blob/main/cypress/e2e/automationtest_3.cy.js)
 
 -------------------------------------------------------------------------------------------------------------------------
