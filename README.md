@@ -29,6 +29,48 @@ Cypress (v10 o superior).
 Git (para clonar el repositorio).
 Navegador Chrome (última versión)
 
+
+
+
+----------------------------------------------------------------------------------
+
+
+This repository contains test automation scripts for validating the product search functionality in an online store. The tests are designed using modern tools and follow best QA practices.
+
+Table of Contents
+
+Introduction
+Features
+Requirements
+Installation
+Running Tests
+Project Structure
+Contributions
+Contact
+Introduction
+This project automates the validation of the search functionality in an online store. It includes test cases for both positive and negative scenarios, following clear acceptance criteria based on BDD within the user story.
+
+QA Experience:
+
+Over 1 year of experience working in agile environments (Scrum).
+Experience with tools like Jira, Xray, Postman, and Cypress.
+Functional and automated testing in e-commerce projects.
+Knowledge of test case design, error handling, and data validation using SQL.
+Features:
+
+Automated with Cypress
+Validations for scenarios like successful search, no results, and error handling
+Cross-browser compatibility (Chrome, Firefox, Edge)
+Scripts ready for CI/CD pipelines
+Requirements:
+
+Node.js (v14 or higher)
+Cypress (v10 or higher)
+Git (for cloning the repository)
+Chrome browser (latest version)
+Let me know if you need further adjustments!
+
+
 ----------------------------------------------------------------------------------
 
 Historias de usuario y sus trabajos:
