@@ -31,7 +31,7 @@ Navegador Chrome (última versión)
 
 Historias de usuario y sus trabajos:
 
-[Historia de usuario 1](Historias de Usuario 1)
+[Historia de usuario 1](Historias de usuario/Historias de Usuario 1)
 [automationtest.cy.js](cypress/e2e/automationtest.cy.js)
 
 
