@@ -31,5 +31,6 @@ Escenarios Negativos
 Página para pruebas:
 Se recomienda usar DemoQA - Droppable para validar el comportamiento esperado en un entorno controlado
 
-automationtest_2.cy.js
+[automationtest_2.cy.js](https://github.com/gonzalopetenarqa/Repositorio-QA-Automation/blob/main/cypress/e2e/automationtest_2.cy.js)
+
 ------------------------------------------------------------------------------------------------------------------------

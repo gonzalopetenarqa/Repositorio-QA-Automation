@@ -135,7 +135,6 @@ describe('Validacion de flujo de compra en la plataforma de Sauce Labs',()=>{
         cy.get(".complete-header").contains("Thank you for your order!")
         
     })
-  //el ulitmo caso es un bug no deberia permitir y deberia aparecer un pop-up con el mensaje que no se pudo realizar la compra
-  //porque no se ha seleccionado un producto(obligatoriamente).
+
 })
 

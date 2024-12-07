@@ -36,6 +36,6 @@ Escenarios Negativos
 Página para pruebas:
 Se recomienda usar la página Automation Practice para realizar las validaciones y pruebas en un entorno controlado.
 
-[automationtest.cy.js](cypress/e2e/automationtest.cy.js)
+[automationtest.cy.js](https://github.com/gonzalopetenarqa/Repositorio-QA-Automation/blob/main/cypress/e2e/automationtest.cy.js)
 
 ------------------------------------------------------------------------------------------------------------------------
